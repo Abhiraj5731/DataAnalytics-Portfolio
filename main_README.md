@@ -1,3 +1,5 @@
 # Data Analytics Portfolio
 
-Contains two visually rich data analytics and visualization projects by S. Abhiraj Pillay.
+by S. Abhiraj Pillay
+
+📅 Build for Bharat Fellowship 2026 (Data Science Cohort)
